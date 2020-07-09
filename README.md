@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning ... Everything!
 <!--
 **wowbob396/wowbob396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
