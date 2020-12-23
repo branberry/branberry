@@ -1,7 +1,7 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wowbob396&layout=compact&theme=onedark)](https://github.com/wowbob396)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wowbob396&layout=compact&theme=Gradient)](https://github.com/wowbob396)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=wowbob396&show_icons=true&theme=onedark&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=wowbob396&show_icons=true&theme=Gradient&count_private=true)
 - 🌱 I’m currently learning ... everything!
 <!--
 **wowbob396/wowbob396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
