@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Brandon's github stats](https://github-readme-stats.vercel.app/api?username=wowbob396)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🌱 I’m currently learning ... everything!
 <!--
 **wowbob396/wowbob396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
