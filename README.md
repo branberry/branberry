@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wowbob396&layout=compact&theme=onedark)](https://github.com/branberry)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=branberry&layout=compact&theme=onedark)](https://github.com/branberry)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=branberry&show_icons=true&theme=onedark&count_private=true)
 - 🌱 I’m currently learning ... everything!
