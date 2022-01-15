@@ -2,7 +2,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=branberry&layout=compact&theme=onedark)](https://github.com/branberry)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=branberry&show_icons=true&theme=onedark&count_private=true)
-- 🌱 I’m currently learning ... everything!
+#### 🌱 I’m currently learning ... everything!
+
 <!--
 **wowbob396/wowbob396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
