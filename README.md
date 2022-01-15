@@ -10,6 +10,8 @@ In particular, I am learning Three.js, Next.js, and Rust. I've also been casuall
 
 I've also been working in serverless environments, and with AWS Lambda functions in particular. 
 
+I also started working on a blog site as a subdomain for my primary website at blog.lostcoding.com. Like most of my projects, though, I've let this one go by the wayside for a bit... Ha! I'm hoping to get back into this one soon and spend some more time putting it together.
+
 
 <!--
 **wowbob396/wowbob396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
