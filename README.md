@@ -1,7 +1,4 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=branberry&layout=compact&theme=onedark)](https://github.com/branberry)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=branberry&show_icons=true&theme=onedark&count_private=true)
 
 
 #### 🌱 I’m currently learning ... everything!
@@ -27,3 +24,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=branberry&layout=compact&theme=onedark)](https://github.com/branberry)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=branberry&show_icons=true&theme=onedark&count_private=true)
